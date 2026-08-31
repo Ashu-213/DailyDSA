@@ -8,8 +8,8 @@
 Math, String, Greedy, Game Theory
 
 ### 🚀 Performance
-- **Runtime:** 8 ms
-- **Memory:** 46.9 MB
+- **Runtime:** 7 ms
+- **Memory:** 47.2 MB
 
 ---
 
