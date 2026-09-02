@@ -9,7 +9,7 @@ Array, Greedy
 
 ### 🚀 Performance
 - **Runtime:** 3 ms
-- **Memory:** 52.5 MB
+- **Memory:** 52.2 MB
 
 ---
 
