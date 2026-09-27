@@ -12,7 +12,6 @@ class Solution {
                 arr[arr[i]] = i;
             }
         }
-
         StringBuilder sb = new StringBuilder();
         for (int i = 0, dir = 1; i < n; i += dir) {
             if (s.charAt(i) >= 'a')
@@ -22,7 +21,6 @@ class Solution {
                 dir = -dir;
             }
         }
-        
         return sb.toString();
     }
 }
