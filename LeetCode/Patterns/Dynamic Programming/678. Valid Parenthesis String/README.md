@@ -9,7 +9,7 @@ String, Dynamic Programming, Stack, Greedy, Bracket Sequences
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 42.8 MB
+- **Memory:** 42.2 MB
 
 ---
 
