@@ -9,7 +9,7 @@ Array, Hash Table, Counting
 
 ### 🚀 Performance
 - **Runtime:** 2 ms
-- **Memory:** 43.9 MB
+- **Memory:** 43.7 MB
 
 ---
 
